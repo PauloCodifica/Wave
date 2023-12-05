@@ -3,7 +3,7 @@ Juego Clásico de Arcade
 <br>Versión de PauloCodifica.
 <br>Creado originalmente por RealTutsGML.
 
-<img src="Images/Wave_GitHubBanner.jpg" width=60%/>
+<img src="Images/Wave_GitHubBanner.jpg" alt="Wave Game" width=70%/>
 
 ## [ Español ]
 ### ¿Qué es Wave?
