@@ -11,7 +11,7 @@ Wave es un juego de estilo clásico de arcade en el que debes moverte rápidamen
 Para más información, visita: https://paulocodifica.github.io/es/games/Wave
 
 ### ¿Cómo se juega?
-1. Descarga el archivo Wave.jar
+1. Descarga el archivo <a href="https://github.com/PauloCodifica/Wave/blob/main/Wave.jar">Wave.jar</a>
 2. Ejecútalo
 3. ¡Diviértete!
 <br>( Nota: Debes tener JAVA instalado )
@@ -27,7 +27,7 @@ Wave is a classic arcade style game where you must move quickly to avoid collidi
 For more information, visit: https://paulocodifica.github.io/en/games/Wave
 
 ### ¿How to play?
-1. Download the Wave.jar file
+1. Download the <a href="https://github.com/PauloCodifica/Wave/blob/main/Wave.jar">Wave.jar</a> file
 2. Run it
 3. Have fun!
 <br>( PS: You must have JAVA installed )
