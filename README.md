@@ -3,6 +3,8 @@ Juego Clásico de Arcade
 <br>Versión de PauloCodifica.
 <br>Creado originalmente por RealTutsGML.
 
+<img src="Images/Wave_GitHubBanner.jpg" width=60%/>
+
 ## [ Español ]
 ### ¿Qué es Wave?
 Wave es un juego de estilo clásico de arcade en el que debes moverte rápidamente para evitar colisionar con los enemigos.
